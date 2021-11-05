@@ -99,3 +99,28 @@ nav button{
     font-style: italic;
     
 }
+.container{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    font-style: italic;
+    width: 70%;
+    margin-left: 15%;
+
+}
+.allservice{
+    background-color:#c1c1c0 ;
+    padding-bottom: 50px;
+}
+.one{
+    background-color: white;
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+}
+.one h1{
+    background-color: #F19201;
+    border-radius: 50%;
+    padding-left: 30px;
+    
+}
