@@ -1,0 +1,13 @@
+body{
+font-display: ;
+}
+
+.nav{display: flex;
+    background: url(images/image3.png);
+    background-color: black;
+    background-repeat: no-repeat;
+    border: solid black;
+
+
+
+}
