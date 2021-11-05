@@ -16,5 +16,30 @@
     display: flex;
     align-items: center;
     justify-content: space-around;
-    
+
+}
+nav{
+width: 45%;
+background-color: black;
+height: 100%;
+
+}
+nav ul{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 100%;
+    list-style-type: none;
+
+}
+
+nav a{
+font-size: 1.25rem;
+font-weight: 600;
+color: white;
+text-decoration: none;
+}
+
+nav a:hover{
+    color: #F19201;
 }
