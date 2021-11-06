@@ -97,11 +97,11 @@ nav button{
 .services p{
     text-align: center;
     font-style: italic;
+    padding-bottom: 40px;
     
 }
 .container{
     display: flex;
-    justify-content: space-around;
     text-align: center;
     font-style: italic;
     width: 70%;
@@ -116,11 +116,22 @@ nav button{
     background-color: white;
     padding-top: 50px;
     padding-bottom: 50px;
+    margin-left: 50px;
+    width: 30%;
 
 }
 .one h1{
     background-color: #F19201;
     border-radius: 50%;
     padding-left: 30px;
+    margin-bottom: 20px;
     
+}
+.one h2{
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom: 20px;
+    font-style: normal;
+}
+.one h3{
+    font-style: italic;
 }
