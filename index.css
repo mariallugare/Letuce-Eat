@@ -154,7 +154,13 @@ nav button{
     display: flex;
 
 }
+.blackimage{
+    width: 50%;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
 #blackimage{
-    height: 30px;
-    width: 20px;
+    width: 90%;
 }
