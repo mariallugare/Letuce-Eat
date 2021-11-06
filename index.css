@@ -215,3 +215,9 @@ nav button{
     padding: 5px 20px 5px 20px;
     border: solid 2px white;
 }
+.footertxt{
+    color: white;
+    padding: 10px;
+    text-align: center;
+    
+}
