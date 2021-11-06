@@ -178,3 +178,26 @@ nav button{
     background-color: #c1c1c0;
     padding-bottom: 20px;
 }
+.rowone{
+    display: flex;
+    margin-left: 10%;
+    width: 80%;
+    background-color: #fff;
+   
+}
+.chapati{
+    width: 50%;
+    display: flex;
+
+}
+.chapati img{
+    height: 300px;
+    width: 400px;
+    padding: 20px;
+}
+.details{
+    padding-left: 20px;
+}
+.orderlist{
+    background-color: #c1c1c0;
+}
