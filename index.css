@@ -207,6 +207,7 @@ nav button{
     text-align: center;
     color: white;
     background-size: cover;
+    background-position: bottomg;
    
 }
 .button{
@@ -219,5 +220,5 @@ nav button{
     color: white;
     padding: 10px;
     text-align: center;
-    
+
 }
