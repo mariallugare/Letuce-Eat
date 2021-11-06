@@ -164,3 +164,17 @@ nav button{
 #blackimage{
     width: 90%;
 }
+.menu h1{
+    color: #F19201;
+    text-align: center;
+    padding: 20px;
+    margin-top:-10px;
+}
+.menu p{
+    text-align: center;
+    font-style: italic;
+}
+.menu{
+    background-color: #c1c1c0;
+    padding-bottom: 20px;
+}
