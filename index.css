@@ -203,4 +203,15 @@ nav button{
 }
 .footer{
     background-image: url(images/image8.png);
+    padding: 70px 10px 120px 10px;
+    text-align: center;
+    color: white;
+    background-size: cover;
+   
+}
+.button{
+    background-color: transparent;
+    color: white;
+    padding: 5px 20px 5px 20px;
+    border: solid 2px white;
 }
